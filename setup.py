@@ -33,7 +33,7 @@ if __name__ == "__main__":
             "flake8==4.0.1",
             "flake8-black==0.3.3",
             "flake8-isort==4.1.2.post0",
-            "isort==5.10.1",
+            "isort==5.11.4",
             "mdformat==0.7.14",
             "mdformat-gfm==0.3.5",
             "mdformat-black==0.1.1",
